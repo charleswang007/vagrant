@@ -10,4 +10,4 @@ VirtualBox、VMware Workstation、VMware Fusion、Parallels Desktop 等虛擬機
 
 Vagrant 官方定義為 「建立及設定輕量性、可重覆性及可攜性的開發環境」，主要是透過設定檔使用 VirtualBox 來建立一個虛擬機器 (Virtual Machine, VM)，是達成 「Infrastructure As Code」的一種方式。
 
-![alt text](logo.png "HashiCorp Vagrant")
+![alt text](logo.PNG "HashiCorp Vagrant")
